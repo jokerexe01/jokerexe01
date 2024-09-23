@@ -5,7 +5,7 @@
   <br>
   <br>
   <!-- <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="cybermax560-exe" /></a> -->
-</p>.
+</p>
 
 <!---
 jokerexe01/jokerexe01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
