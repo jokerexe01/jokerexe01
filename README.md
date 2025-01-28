@@ -1,7 +1,4 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on git hub <br>🤝 I’m looking for help with bug hunting <br>🌱 I’m currently learning cyber security and ethical hacking <br>💬 Ask me about cyber secirity and osint stuffs 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jokerexe.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-mondal/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@J0K34-official) 
 
